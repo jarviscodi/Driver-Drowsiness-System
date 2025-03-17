@@ -1,0 +1,808 @@
+Thu Nov 21 19:50:32 2024: Latitude: -33.8684321, Longitude: 151.2164881, Address: Step up and Speak Your Mind, Art Gallery Road, Quay Quarter, Sydney, Sydney CBD, Sydney, Council of the City of Sydney, New South Wales, 2000, Australia
+Thu Nov 21 19:50:37 2024: Latitude: -33.8684321, Longitude: 151.2164881, Address: Step up and Speak Your Mind, Art Gallery Road, Quay Quarter, Sydney, Sydney CBD, Sydney, Council of the City of Sydney, New South Wales, 2000, Australia
+Thu Nov 21 19:50:41 2024: Latitude: -33.8684321, Longitude: 151.2164881, Address: Step up and Speak Your Mind, Art Gallery Road, Quay Quarter, Sydney, Sydney CBD, Sydney, Council of the City of Sydney, New South Wales, 2000, Australia
+Thu Nov 21 19:50:46 2024: Latitude: -33.8684321, Longitude: 151.2164881, Address: Step up and Speak Your Mind, Art Gallery Road, Quay Quarter, Sydney, Sydney CBD, Sydney, Council of the City of Sydney, New South Wales, 2000, Australia
+Thu Nov 21 19:50:51 2024: Latitude: -33.8684321, Longitude: 151.2164881, Address: Step up and Speak Your Mind, Art Gallery Road, Quay Quarter, Sydney, Sydney CBD, Sydney, Council of the City of Sydney, New South Wales, 2000, Australia
+Thu Nov 21 19:52:45 2024: Latitude: -33.8684321, Longitude: 151.2164881, Address: Step up and Speak Your Mind, Art Gallery Road, Quay Quarter, Sydney, Sydney CBD, Sydney, Council of the City of Sydney, New South Wales, 2000, Australia
+Thu Nov 21 19:53:39 2024: Latitude: -33.8684321, Longitude: 151.2164881, Address: Step up and Speak Your Mind, Art Gallery Road, Quay Quarter, Sydney, Sydney CBD, Sydney, Council of the City of Sydney, New South Wales, 2000, Australia
+Thu Nov 21 19:53:43 2024: Latitude: -33.8684321, Longitude: 151.2164881, Address: Step up and Speak Your Mind, Art Gallery Road, Quay Quarter, Sydney, Sydney CBD, Sydney, Council of the City of Sydney, New South Wales, 2000, Australia
+Thu Nov 21 19:53:48 2024: Latitude: -33.8684321, Longitude: 151.2164881, Address: Step up and Speak Your Mind, Art Gallery Road, Quay Quarter, Sydney, Sydney CBD, Sydney, Council of the City of Sydney, New South Wales, 2000, Australia
+Thu Nov 21 19:53:54 2024: Latitude: -33.8684321, Longitude: 151.2164881, Address: Step up and Speak Your Mind, Art Gallery Road, Quay Quarter, Sydney, Sydney CBD, Sydney, Council of the City of Sydney, New South Wales, 2000, Australia
+Thu Nov 21 19:54:03 2024: Latitude: -33.8684321, Longitude: 151.2164881, Address: Step up and Speak Your Mind, Art Gallery Road, Quay Quarter, Sydney, Sydney CBD, Sydney, Council of the City of Sydney, New South Wales, 2000, Australia
+Thu Nov 21 19:54:08 2024: Latitude: -33.8684321, Longitude: 151.2164881, Address: Step up and Speak Your Mind, Art Gallery Road, Quay Quarter, Sydney, Sydney CBD, Sydney, Council of the City of Sydney, New South Wales, 2000, Australia
+Thu Nov 21 19:54:15 2024: Latitude: -33.8684321, Longitude: 151.2164881, Address: Step up and Speak Your Mind, Art Gallery Road, Quay Quarter, Sydney, Sydney CBD, Sydney, Council of the City of Sydney, New South Wales, 2000, Australia
+Thu Nov 21 19:54:20 2024: Latitude: -33.8684321, Longitude: 151.2164881, Address: Step up and Speak Your Mind, Art Gallery Road, Quay Quarter, Sydney, Sydney CBD, Sydney, Council of the City of Sydney, New South Wales, 2000, Australia
+Thu Nov 21 19:54:26 2024: Latitude: -33.8684321, Longitude: 151.2164881, Address: Step up and Speak Your Mind, Art Gallery Road, Quay Quarter, Sydney, Sydney CBD, Sydney, Council of the City of Sydney, New South Wales, 2000, Australia
+Thu Nov 21 19:54:31 2024: Latitude: -33.8684321, Longitude: 151.2164881, Address: Step up and Speak Your Mind, Art Gallery Road, Quay Quarter, Sydney, Sydney CBD, Sydney, Council of the City of Sydney, New South Wales, 2000, Australia
+Sat Nov 23 19:00:00 2024: Latitude: -33.8684321, Longitude: 151.2164881, Address: Step up and Speak Your Mind, Art Gallery Road, Quay Quarter, Sydney, Sydney CBD, Sydney, Council of the City of Sydney, New South Wales, 2000, Australia
+Sat Nov 23 19:02:34 2024: Latitude: -33.8684321, Longitude: 151.2164881, Address: Step up and Speak Your Mind, Art Gallery Road, Quay Quarter, Sydney, Sydney CBD, Sydney, Council of the City of Sydney, New South Wales, 2000, Australia
+Sat Nov 23 19:02:43 2024: Latitude: -33.8684321, Longitude: 151.2164881, Address: Step up and Speak Your Mind, Art Gallery Road, Quay Quarter, Sydney, Sydney CBD, Sydney, Council of the City of Sydney, New South Wales, 2000, Australia
+Sat Nov 23 19:04:32 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 19:06:11 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 19:39:06 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 19:39:21 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 19:58:10 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 19:58:40 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 19:59:10 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 19:59:42 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:00:50 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:09:53 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:09:58 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:10:08 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:10:13 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:10:15 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:10:18 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:10:21 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:10:24 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:10:26 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:10:29 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:10:38 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:10:43 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:15:35 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:15:36 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:15:37 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:15:38 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:15:39 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:15:46 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:15:48 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:15:49 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:15:50 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:15:51 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:15:52 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:15:53 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:15:54 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:15:55 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:15:56 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:15:57 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:15:58 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:16:00 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:16:02 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:16:03 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:16:03 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:16:04 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:16:05 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:16:05 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:16:06 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:16:08 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:16:11 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:16:12 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:16:12 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:16:13 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:16:13 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:16:14 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:16:14 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:16:15 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:16:15 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:16:16 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:16:19 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:16:20 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:16:20 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:16:21 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:16:21 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:16:22 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:16:22 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:16:24 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:16:26 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:16:27 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:16:27 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:16:28 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:16:30 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:16:31 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:16:32 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:18:06 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:18:07 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:18:08 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:18:08 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:18:09 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:18:09 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:18:10 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:18:10 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:18:14 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:18:15 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:18:25 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:18:27 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:18:28 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:18:32 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:18:34 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:18:48 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:18:49 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:18:50 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:18:50 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:18:51 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:18:52 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:18:52 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:18:53 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:18:53 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:18:54 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:19:46 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:19:47 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:19:47 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:19:48 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:19:49 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:19:49 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:19:50 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:19:51 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:19:52 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:19:53 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:20:18 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:20:21 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:20:22 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:20:23 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:20:23 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:20:24 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:20:24 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:20:25 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:20:25 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:22:46 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:22:47 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:22:52 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:22:53 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:22:54 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:22:54 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sat Nov 23 20:22:57 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:14:04 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:14:05 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:14:05 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:14:07 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:14:07 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:14:08 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:14:08 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:14:09 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:14:09 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:14:11 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:14:13 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:14:14 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:14:16 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:14:17 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:14:18 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:14:19 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:14:20 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:14:21 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:14:22 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:14:22 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:14:23 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:14:24 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:14:25 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:14:26 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:14:26 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:14:27 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:14:27 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:14:28 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:14:28 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:14:31 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:14:32 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:14:32 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:14:33 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:15:35 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:15:36 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:15:36 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:15:37 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:15:38 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:15:39 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:15:40 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:15:40 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:15:41 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:15:42 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:15:43 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:15:43 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:15:45 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:15:47 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:15:48 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:15:49 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:15:50 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:15:50 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:15:51 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:15:52 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:15:53 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:15:54 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:15:55 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:15:56 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:15:57 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:15:58 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:15:58 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:15:59 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:15:59 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:16:00 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:16:01 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:16:02 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:16:02 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:16:03 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:16:04 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:16:04 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:16:05 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:16:06 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:16:06 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:16:07 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:16:08 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:16:08 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:16:09 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:16:09 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:16:10 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:16:11 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:16:12 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:16:13 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:16:14 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:16:15 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:16:16 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:16:16 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:16:21 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:16:22 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:16:23 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:16:23 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:16:24 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:16:24 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:16:25 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:16:26 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Tue Dec  3 08:16:27 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Fri Dec  6 07:46:50 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Fri Dec  6 08:02:23 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Fri Dec  6 08:02:24 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Fri Dec  6 08:02:25 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Fri Dec  6 08:02:26 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Fri Dec  6 08:02:27 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Fri Dec  6 08:02:28 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Fri Dec  6 08:02:28 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Fri Dec  6 08:02:30 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Fri Dec  6 08:02:31 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Fri Dec  6 08:02:32 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Fri Dec  6 08:02:33 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Fri Dec  6 08:02:34 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Fri Dec  6 08:02:35 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Fri Dec  6 08:02:38 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Fri Dec  6 08:02:39 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Fri Dec  6 08:02:39 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Fri Dec  6 08:02:40 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Fri Dec  6 08:02:41 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Fri Dec  6 08:02:42 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Fri Dec  6 08:02:42 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Fri Dec  6 08:02:43 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Fri Dec  6 08:02:44 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Fri Dec  6 08:02:45 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Fri Dec  6 09:16:02 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228B22520>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:02 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228B22A60>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:02 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228B0E2E0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:02 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228B0EB20>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:03 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228B0EA30>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:03 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228B055E0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:03 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228B22880>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:03 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D6823A0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:03 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D682BE0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:03 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D682700>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:04 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000202766B6670>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:05 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228B22A60>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:05 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228B0E670>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:06 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228B0E610>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:06 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D683910>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:07 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228B0E0A0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:08 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228AAC970>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:08 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228B22790>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:09 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D682910>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:10 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D683550>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:10 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D683D90>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:11 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228B22C40>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:11 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D6825E0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:11 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D682310>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:12 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D683340>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:13 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D683E20>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:13 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228B0E4F0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:13 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228B0E4F0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:14 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D682790>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:15 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228B05B20>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:16 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D683400>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:16 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228B22730>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:16 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228B22E20>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:17 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228B22D30>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:17 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D683340>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:17 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D683520>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:17 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D682910>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:17 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D682280>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:18 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228B0E790>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:18 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228B0E220>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:19 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D682280>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:19 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228B05850>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:19 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D683730>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:19 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D6834C0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:19 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228B227F0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:19 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228B22E20>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:20 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D6837C0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:20 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D683280>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:20 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D6829D0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:21 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D6828E0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:21 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228B0E790>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:22 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228B0E5E0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:22 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D6822B0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:23 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228AD2CD0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:23 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D683F10>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:24 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228B22730>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:24 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D6A82E0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:24 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228B22790>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:24 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D683610>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:25 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D683580>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:25 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D682790>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:25 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D6828B0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:28 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D6A80D0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:29 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228B0E160>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:29 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D682250>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:30 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D683970>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:31 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D683220>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:32 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D6A8640>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:32 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228B22E20>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:34 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D6A8370>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:34 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D6A81F0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:35 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228B22700>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:36 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228B05BE0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:36 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D69E8B0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:37 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D69E340>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:37 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D69E790>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:38 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D69E940>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:38 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228B22670>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:38 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228B22D00>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:39 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D6A8FD0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:39 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D6A82E0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:39 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D683BB0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:39 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D6A84F0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:40 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228B22DF0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:41 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228B05790>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:41 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D69EE50>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:44 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D69EB20>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:45 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228AFD640>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:46 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D69E1F0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:46 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228AAC7F0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:53 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228B22A60>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:53 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D6A8BB0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:54 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D6A8070>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:54 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D6A8DC0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:54 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D6A8EE0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:54 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228B226D0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:56 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D69EBB0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:56 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D69E820>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:56 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D6822E0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:57 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D682190>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:59 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D69E820>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:16:59 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228B05520>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:17:00 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228B22A60>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:17:00 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D6A8D00>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:17:01 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D6A8040>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:17:02 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D6A8310>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:17:11 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D6A84F0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:17:11 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020228B22D90>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:17:11 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D69E070>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:17:11 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D69EF40>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Fri Dec  6 09:17:11 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002022D682C10>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Sun Dec  8 21:23:35 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sun Dec  8 21:23:36 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sun Dec  8 21:23:37 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sun Dec  8 21:23:37 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sun Dec  8 21:23:38 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sun Dec  8 21:23:38 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sun Dec  8 21:23:39 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sun Dec  8 21:23:39 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sun Dec  8 21:23:40 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sun Dec  8 21:23:42 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sun Dec  8 21:23:42 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sun Dec  8 21:23:43 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sun Dec  8 21:23:43 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sun Dec  8 21:23:48 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002473AA02820>, 'Connection to nominatim.openstreetmap.org timed out. (connect timeout=1)'))
+Sun Dec  8 21:28:33 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sun Dec  8 21:28:34 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sun Dec  8 21:28:34 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sun Dec  8 21:28:35 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sun Dec  8 21:28:35 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sun Dec  8 21:28:36 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sun Dec  8 21:28:36 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sun Dec  8 21:28:37 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sun Dec  8 21:28:38 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sun Dec  8 21:28:38 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sun Dec  8 21:28:39 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sun Dec  8 21:28:39 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Sun Dec  8 21:28:40 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 08:53:20 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002357FEBA550>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:20 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002357FEBAA90>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:20 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002357FEB0310>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:21 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002357FEB0B50>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:21 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002357FEB0A60>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:21 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002357FE867C0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:22 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002357FEBA8B0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:22 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023519B073D0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:22 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023519B07C10>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:22 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023519B07670>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:22 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023519B07220>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:23 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002357FEBA820>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:23 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002357FEB0940>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:23 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002357FEB0640>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:24 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023519AFA940>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:24 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002357FEB0880>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:24 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002357FE86640>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:24 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002357FEBACA0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:24 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023519B07190>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:25 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023519AFA580>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:26 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023519AFACD0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:27 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023519B07850>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:27 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002357FEBA910>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:27 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002357FE86880>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:27 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023519AFA370>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:27 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023519AFAE50>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:28 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002357FEB0370>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:28 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002357FEB0370>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:28 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002357FEBAE80>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:28 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002357FEBA730>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:28 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023519AFAC40>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:29 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023519B07460>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:29 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023519B075B0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:31 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023519B07B50>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:35 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023519AFA2E0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:36 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023519AFA400>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:37 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002357FEBA790>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:37 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002357FE863A0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:37 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002357FEB0A00>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:38 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002357FEB0880>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:39 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002357FE53CD0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:39 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002357FEBA940>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:39 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023519AFA6A0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:39 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023519B07C40>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:40 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023519B073D0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:43 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023519B075E0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:43 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023519AFA5E0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:45 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023519AFA370>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:45 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002357FEBA6D0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:45 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002357FE86B50>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:46 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002357FEB0970>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:46 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002357FEB00D0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:46 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002357FEBAB20>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:48 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002357FE7EA30>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:48 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023519AFA490>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:49 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023519B07B80>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:49 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023519B192B0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:49 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023519B07280>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:50 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023519AFA280>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:50 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023519AFADC0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:53 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002357FEBAF10>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:57 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002357FEB0DF0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:57 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023519B192B0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:58 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002357FEB00A0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:58 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002357FEBAD30>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:58 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023519AFAA30>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:59 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023519AFA490>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:59 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023519B07C40>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:53:59 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023519B0FFA0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:54:00 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002357FE863A0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:54:02 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023519B19850>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:54:04 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002357FEBA970>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:54:05 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002357FEBAEE0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:54:05 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023519B0F8B0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:54:05 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023519B0F130>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:54:06 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023519B0F790>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:54:08 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023519B0F8B0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:54:09 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002357FEBAB80>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:54:10 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023519B19D30>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:54:10 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023519B19D00>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:54:12 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002357FE86AC0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:55:45 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B6AB2DB550>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:55:45 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B6AB2DBA90>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:55:46 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B6AB2EE310>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:55:46 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B6AB2EEB50>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:55:46 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B6AB2EEA60>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:55:46 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B6AB2C4880>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:55:46 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B6AB2DB8B0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:55:47 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B6AFE2C3D0>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:55:47 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B6AFE2CC10>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:55:48 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B6AFE2C850>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:55:48 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B6F8E46670>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:55:48 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B6AB2DB820>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:55:48 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B6AB2EEC10>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:55:50 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B6AB2EE640>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:55:50 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B6AFE2F940>: Failed to resolve 'nominatim.openstreetmap.org' ([Errno 11001] getaddrinfo failed)"))
+Mon Dec  9 08:58:18 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 08:58:19 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 08:58:20 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 08:58:20 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 08:58:22 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 08:58:22 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 08:58:23 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 08:58:24 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 08:58:25 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 08:58:26 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 08:58:26 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 08:58:27 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:29 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:31 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:31 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:33 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:33 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:34 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:34 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:35 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:35 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:36 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:37 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:38 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:39 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:39 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:40 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:41 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:42 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:42 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:43 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:43 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:45 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:45 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:46 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:46 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:47 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:47 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:48 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:48 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:49 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:50 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:50 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:51 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:51 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:52 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:52 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:53 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:54 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:54 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:55 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:56 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:56 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:57 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:57 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:58 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:59 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:45:59 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:00 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:01 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:01 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:02 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:02 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:03 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:04 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:04 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:05 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:06 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:07 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:07 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:08 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:08 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:09 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:10 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:10 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:11 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:12 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:13 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:13 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:14 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:17 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:18 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:19 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:20 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:21 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:21 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:22 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:23 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:24 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:24 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:25 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:26 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:26 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:27 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:29 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:30 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:30 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:31 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:31 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:32 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:33 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:33 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:34 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:34 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:35 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:35 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:36 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:37 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:37 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:38 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:39 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:44 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:45 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:46 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:46 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:47 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:47 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:48 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:49 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:51 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:52 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:53 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:53 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:54 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:54 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:55 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:56 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:56 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:57 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 19:46:59 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:17 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)"))
+Mon Dec  9 20:04:22 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:23 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:24 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:25 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:25 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:26 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:26 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:27 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:27 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:28 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:28 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:30 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:30 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:31 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:31 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:32 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:32 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:33 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:33 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:34 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:36 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:38 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:39 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:40 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:40 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:41 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:46 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:47 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:48 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:48 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:49 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:50 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:50 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:51 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:52 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:54 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:54 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:55 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:56 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:57 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:57 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:58 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:04:59 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:00 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:00 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:01 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:03 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:04 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:05 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:06 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:07 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:08 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:09 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:10 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:11 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:11 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:12 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:12 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:13 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:13 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:14 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:15 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:15 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:16 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:17 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:19 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:19 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:20 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:21 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:22 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:24 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:25 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:26 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:28 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:29 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:29 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:31 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:33 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:33 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:34 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:34 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:35 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:36 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:36 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:37 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:37 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:05:38 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:07:58 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:08:01 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:08:02 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:08:05 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:08:05 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:08:06 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:08:07 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:08:08 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:08:09 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:08:10 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:08:13 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:08:16 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:08:17 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:08:19 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:08:20 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:08:22 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:11:41 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:11:42 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:11:46 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:11:47 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:11:48 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:11:49 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:11:54 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:11:55 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:11:56 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:11:57 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:11:58 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:12:00 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:12:01 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:12:02 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:12:02 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:12:05 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:12:08 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:12:12 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:12:15 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:12:15 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:17:43 2024: Error fetching location: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Dehradun&format=json&limit=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)"))
+Mon Dec  9 20:17:45 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:17:45 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:17:46 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:17:46 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:17:47 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:17:48 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:17:48 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:17:49 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:17:50 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Mon Dec  9 20:17:51 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 08:46:18 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 08:46:19 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 08:46:19 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 08:46:20 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 08:46:25 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 08:46:26 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 08:46:28 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 08:46:31 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 10:08:46 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 10:08:47 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 10:08:48 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 10:08:48 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 10:08:49 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 10:08:49 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 10:08:50 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 10:08:50 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 10:08:51 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 10:08:52 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 10:08:53 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 10:08:54 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 10:08:57 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 10:08:59 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 10:09:03 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 10:09:03 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 10:09:04 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 10:09:05 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 10:09:06 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 10:09:08 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 10:09:11 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 10:09:17 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 10:09:17 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 10:09:18 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 10:09:20 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 10:09:21 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 10:09:22 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 10:09:22 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 10:09:23 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 10:09:24 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 10:21:20 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 10:21:21 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 10:21:22 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 10:21:22 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 10:21:24 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 10:21:29 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 10:21:35 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 10:21:36 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 10:21:50 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 10:21:50 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
+Thu Dec 12 10:21:54 2024: Latitude: 30.3255646, Longitude: 78.0436813, Address: Dehradun, Uttarakhand, 248001, India
